@@ -1,5 +1,5 @@
 ---
-title: I baught a chair and here's what I learned
+title: I bought a chair and here's what I learned
 date: 2022-04-09
 author: Pouya
 desc: Laudantium iste repellat et. Et officiis corporis. At est placeat voluptas aut. Soluta dolor quae quae tempora. Voluptatibus quibusdam natus. Facilis ea repellendus expedita voluptatum rerum autem.
