@@ -7,14 +7,14 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        'sans': ['"Poppins"', "sans-serif"],
+        'sans': ['"Work Sans"', "sans-serif"],
       }
     }
   },
   daisyui: {
     themes: [
-      'night',
-      'winter',
+      'coffee',
+      'retro',
     ]
   }
 }

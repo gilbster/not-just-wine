@@ -1,10 +1,10 @@
 ---
-title: I bought a chair and here's what I learned
-date: 2022-04-09
-author: Pouya
+title: Top Three Natural Wines
+date: 2022-06-10
+author: Alexander
 desc: Laudantium iste repellat et. Et officiis corporis. At est placeat voluptas aut. Soluta dolor quae quae tempora. Voluptatibus quibusdam natus. Facilis ea repellendus expedita voluptatum rerum autem.
-img: https://api.lorem.space/image/furniture?w=800&h=500
-imgWidth: 800
+img: https://api.lorem.space/image/drink?w=700&h=500
+imgWidth: 700
 imgHeight: 500
 ---
 

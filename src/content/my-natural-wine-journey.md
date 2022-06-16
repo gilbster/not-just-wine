@@ -1,10 +1,10 @@
 ---
-title: Top 10 furniture design trends for 2022
-date: 2022-04-08
-author: Pouya
+title: My natural wine Journey
+date: 2022-06-16
+author: Alexander
 desc: Laudantium iste repellat et. Et officiis corporis. At est placeat voluptas aut. Soluta dolor quae quae tempora. Voluptatibus quibusdam natus. Facilis ea repellendus expedita voluptatum rerum autem.
-img: https://api.lorem.space/image/furniture?w=500&h=500
-imgWidth: 500
+img: https://api.lorem.space/image/drink?w=800&h=500
+imgWidth: 800
 imgHeight: 500
 ---
 
