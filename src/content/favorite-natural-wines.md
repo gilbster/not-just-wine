@@ -1,9 +1,9 @@
 ---
-title: Top Three Natural Wines
+title: Favorite Natural Wines
 date: 2022-06-10
 author: Alexander
-desc: Laudantium iste repellat et. Et officiis corporis. At est placeat voluptas aut. Soluta dolor quae quae tempora. Voluptatibus quibusdam natus. Facilis ea repellendus expedita voluptatum rerum autem.
-img: https://api.lorem.space/image/drink?w=700&h=500
+desc: It is always hard for me to pick my favorite wines. However, I will try and pick a few that I most enjoyed drinking from some of the wines I have tried over the years. I'll break them down into categories, Pet Nat, Orange, White and Red Wine.
+img: top_wine.jpg
 imgWidth: 700
 imgHeight: 500
 ---

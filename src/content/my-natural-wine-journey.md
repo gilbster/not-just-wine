@@ -1,27 +1,19 @@
 ---
 title: My natural wine Journey
-date: 2022-06-16
+date: 2022-07-17
 author: Alexander
-desc: Laudantium iste repellat et. Et officiis corporis. At est placeat voluptas aut. Soluta dolor quae quae tempora. Voluptatibus quibusdam natus. Facilis ea repellendus expedita voluptatum rerum autem.
-img: https://api.lorem.space/image/drink?w=800&h=500
+desc: My natural wine Journey began when a friend shared a Pet Nat with me. It was in Spring of 2021, when I first tried the Kobal Bajta Pet Nat. This wine from Slovenia open the door for me to natural wine, and fueled my quest for funky, fun wines.
+img: /nat_wine.jpg
 imgWidth: 800
 imgHeight: 500
 ---
 
-Molestias laudantium dolorem impedit quam eaque suscipit voluptatem vel. Sit et sit autem quae dicta repellat magnam. Iste corporis nihil enim nobis. Ea omnis qui illo ratione. Et eius est mollitia.
+My natural wine Journey began when a friend shared a Pet Nat with me. It was in Spring of 2021, when I first tried the [Kobal Bajta Pet Nat](https://www.kobalwines.si/wine-2/?lang=en). This wine from Slovenia open the door for me to natural wine, and fueled my quest for funky, fun wines.
 
-Id dicta cumque saepe enim reprehenderit quidem quis mollitia sit. Aspernatur quia doloribus ipsa. Soluta quis necessitatibus eaque dolorem sunt voluptates neque. Sit cumque dolor distinctio. Fugiat nostrum consequatur.
+After this initial taste, I was **_hooked_**. I began searching all over for natural wines. I checked Whole Foods, disappointed to only find a few over price options. Fortunately for me, in KC there are a few other local shops with Natural wines in stock.
 
-Cum vitae explicabo aspernatur rerum. Tenetur possimus quos eveniet. Repellat eveniet repellat maiores magnam voluptas dolor. Mollitia possimus laborum unde eius sunt. Repellat eos possimus nulla cum accusamus numquam labore dolore.
+My favorite shop, and the most impactful, has definitely been [Big Mood Wine](https://bigmoodnaturalwines.com/). After purchasing and enjoying a handful of wines from their shop, I decided to join the Wine Club. The wine club offers 2 bottles of wine a month and free in store tasting. This has allowed me branch out and enjoy more wines, some that I may not have discovered any other way. Along with an extensive wine selection they also carry some liquor and spirits as well.
 
-Molestias laudantium dolorem impedit quam eaque suscipit voluptatem vel. Sit et sit autem quae dicta repellat magnam. Iste corporis nihil enim nobis. Ea omnis qui illo ratione. Et eius est mollitia.
+Another great option in downtown Kansas City, is the [The Pairing: Crossroads Wine & Grocer](https://www.facebook.com/thepairingkc). They offer a large variety of Natural and traditional wines, as well as delicious beers and spirits. I have often enjoyed their niche beers and growing natural wine selection.
 
-Id dicta cumque saepe enim reprehenderit quidem quis mollitia sit. Aspernatur quia doloribus ipsa. Soluta quis necessitatibus eaque dolorem sunt voluptates neque. Sit cumque dolor distinctio. Fugiat nostrum consequatur.
-
-Cum vitae explicabo aspernatur rerum. Tenetur possimus quos eveniet. Repellat eveniet repellat maiores magnam voluptas dolor. Mollitia possimus laborum unde eius sunt. Repellat eos possimus nulla cum accusamus numquam labore dolore.
-
-Molestias laudantium dolorem impedit quam eaque suscipit voluptatem vel. Sit et sit autem quae dicta repellat magnam. Iste corporis nihil enim nobis. Ea omnis qui illo ratione. Et eius est mollitia.
-
-Id dicta cumque saepe enim reprehenderit quidem quis mollitia sit. Aspernatur quia doloribus ipsa. Soluta quis necessitatibus eaque dolorem sunt voluptates neque. Sit cumque dolor distinctio. Fugiat nostrum consequatur.
-
-Cum vitae explicabo aspernatur rerum. Tenetur possimus quos eveniet. Repellat eveniet repellat maiores magnam voluptas dolor. Mollitia possimus laborum unde eius sunt. Repellat eos possimus nulla cum accusamus numquam labore dolore.
+There is a certain amount of mystery and excitement that comes from trying a new Natural wine, or even retrying a favorite. Due to the minimal intervention and
